@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cuanto Pongo</string>
+    <string name="etpersona">Nombre</string>
+    <string name="ep">Cuanto gastó?</string>
+</resources>
